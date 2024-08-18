@@ -1,6 +1,6 @@
-# biology_and_deep_learning
+# Biology and Deep Learning
 List of deep learning related to biology and some learning resources.
----
+
 # Table of Contents
 
 
