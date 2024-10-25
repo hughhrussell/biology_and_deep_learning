@@ -7,9 +7,15 @@ List of deep learning related to biology and some learning resources.
 
 # LLMs and Biology
 
-[AlphaFold v2](https://github.com/google-deepmind/alphafold) An attention-based deep learning algorithm released by Google's DeepMind.
+[AlphaFold v2](https://github.com/google-deepmind/alphafold) An attention-based deep learning algorithm released by Google's DeepMind to predict protein structures.
+
+[ESM2](https://github.com/facebookresearch/esm) A transformer model from Meta that is able to design protein structure and was shown to be able to go beyond natural proteins in this [paper](https://www.biorxiv.org/content/10.1101/2022.12.21.521521v1). 
+
+[GeneGPT](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10153281/) An LLM approach, which uses NCBI APIs to address prompts and the paper reports results from the gene turing tests.
 
 [MethylBert](https://github.com/CompEpigen/methylbert?tab=readme-ov-file) A transformer model developed to predict the tumor fraction from DNA methylation. Tumor purity is inferred using a maximum likelihood estimate.
+
+[ProtGPT2](https://pubmed.ncbi.nlm.nih.gov/35896542/) A decoder only transformer model that can be used to produce <i>de novo</i> protein designs while maintaining conserving features of natural proteins. 
 
 # Learning resources
 
