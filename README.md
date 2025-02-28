@@ -21,11 +21,13 @@ List of deep learning related to biology and some learning resources.
 
 [GOProFormer](https://pubmed.ncbi.nlm.nih.gov/36421723/) Combines seqeunce and graph transformers to predict protein functions using GO terms and the protein sequence. The input is the protein sequence data. 
 
+[Phenformer](https://arxiv.org/abs/2501.07737) A multi-scale genetic language model that aims to learn how genomic variation leads to disease relevant transcriptional changes and disease risk. 
+
 [ProtGPT2](https://pubmed.ncbi.nlm.nih.gov/35896542/) A decoder only transformer model that can be used to produce <i>de novo</i> protein designs while maintaining conserving features of natural proteins. 
 
 # LLMs and Chemistry
 
-
+[CoScientist](https://github.com/gomesgroup/coscientist) CoScientist is a GPT4-based LLM system that is designed to autonomously design and perform complex experiements. According the the creators, LLMs are incorporated with tools such as the internet, documentation searches, ability to execute code, and access to automated lab equipment.
 
 # LLMs and Scientific literature
 
